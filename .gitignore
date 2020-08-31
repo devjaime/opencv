@@ -1,0 +1,5 @@
+data/
+modeloEigenFaces.xml
+modeloFisherFaces.xml
+modeloLBPH.xml
+.DS_Store
